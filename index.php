@@ -6,7 +6,7 @@
 	<meta name="description" content="">
 	<meta name="author"      content="Sergey Pozhilov (GetTemplate.com)">
 	
-	<title>Progressus - First Website</title>
+	<title>Primera Website</title>
 
 	<link rel="shortcut icon" href="assets/images/gt_favicon.png">
 	
@@ -36,17 +36,17 @@
 			</div>
 			<div class="navbar-collapse collapse">
 				<ul class="nav navbar-nav pull-right">
-					<li class="active"><a href="#">Home</a></li>
-					<li><a href="about.php">About</a></li>
+					<li class="active"><a href="#">Inicio</a></li>
+					<li><a href="about.php">Sobre esto</a></li>
 					<li class="dropdown">
-						<a href="#" class="dropdown-toggle" data-toggle="dropdown">More Pages <b class="caret"></b></a>
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">Mas paginas <b class="caret"></b></a>
 						<ul class="dropdown-menu">
-							<li><a href="sidebar-left.php">Left Sidebar</a></li>
-							<li class="active"><a href="sidebar-right.php">Right Sidebar</a></li>
+							<li><a href="sidebar-left.php">Sidebar izquierdo</a></li>
+							<li class="active"><a href="sidebar-right.php">Sidebar Derecho</a></li>
 						</ul>
 					</li>
-					<li><a href="contact.php">Contact</a></li>
-					<li><a class="btn" href="signin.php">SIGN IN / SIGN UP</a></li>
+					<li><a href="contact.php">Contacto</a></li>
+					<li><a class="btn" href="signin.php">Registrar / Ingresar</a></li>
 				</ul>
 			</div><!--/.nav-collapse -->
 		</div>
@@ -57,8 +57,8 @@
 	<header id="head">
 		<div class="container">
 			<div class="row">
-				<h1 class="lead">WELCOME TO OUR WEBSITE</h1>
-				<p class="tagline">PROGRESSUS: Esta plantilla la pondras encontrar en <a href="http://www.google.com.pe">Google</a></p>
+				<h1 class="lead">Bienvenido a la pagina de George</h1>
+				<p class="tagline">Geogzzz: Esta plantilla la pondras encontrar en <a href="http://www.google.com.pe">Google</a></p>
 				<p><a class="btn btn-default btn-lg" role="button">MORE INFO</a> <a class="btn btn-action btn-lg" role="button">DOWNLOAD NOW</a></p>
 			</div>
 		</div>
@@ -68,10 +68,9 @@
 	<!-- Intro -->
 	<div class="container text-center">
 		<br> <br>
-		<h2 class="thin">The best place to tell people why they are here</h2>
+		<h2 class="thin">El mejor es el pepe o eso tilin?</h2>
 		<p class="text-muted">
-			The difference between involvement and commitment is like an eggs-and-ham breakfast:<br> 
-			the chicken was involved; the pig was committed.
+			Nunca sere un musico......
 		</p>
 	</div>
 	<!-- /Intro-->
